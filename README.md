@@ -29,4 +29,4 @@ Eğer Hata Çıktığından Eminseniz <a href="discord.gg/serendia">Destek Disco
 
 Abi Bir Starlarsan çok mutlu olurum star'a basmak Bedava. <3
 
-# Bu altyapıyı Benden izinsiz veya kendi Github Hesabında Yayınlaması yasaktır.
+# Bu altyapıyı Benden izinsiz veya kendi Github Hesabında Yayınlanması yasaktır.
