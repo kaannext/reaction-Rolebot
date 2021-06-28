@@ -5,14 +5,23 @@ Merhaba, Ben Totika size proje paylaşayım dedim ve bazılarınızın yapamadı
 # Kurulum:
 
 ```sh
-npm i
+npm i => Gerekli Modül Dosyalarını yükler.
 ```
-bitim sanıyorsun? hayır bitmedi.
+bitim sanıyorsun? zeki seni bitmedi daha gerekli şeyleri doldurmadın?
 
 ```sh
-config.json
+{
+  "token":"BOT_TOKEN",
+  "prefix":"BOT_PREFİX"
+  "url":"MONGODB_DATABASE_URL"
+}
 ```
-kısmına token ve url felan filan gir işte uzatmıcam.
+# Eee Nasıl Çalışıtırıcam?
+
+```sh
+npm start
+```
+işte bitti, artık sende kiral botçu olabilirsin. 🎉🎉
 
 # discord.gg/serendia
 
