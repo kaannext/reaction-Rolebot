@@ -7,7 +7,7 @@ Merhaba, Ben Totika size proje paylaşayım dedim ve bazılarınızın yapamadı
 ```sh
 npm i => Gerekli Modül Dosyalarını yükler.
 ```
-bitim sanıyorsun? zeki seni bitmedi daha gerekli şeyleri doldurmadın?
+Bittimi sanıyorsun? ne zekisin sen bitmedi daha gerekli şeyleri doldurmadın?
 
 ```sh
 {
