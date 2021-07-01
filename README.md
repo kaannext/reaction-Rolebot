@@ -31,4 +31,5 @@ Abi Bir Starlarsan çok mutlu olurum star'a basmak Bedava. <3
 
 # Bu altyapıyı Benden izinsiz veya kendi Github Hesabında Yayınlanması yasaktır.
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/831551663416148039)](https://discord.com/users/831551663416148039)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/831551663416148039
+                            )](https://discord.com/users/831551663416148039)
